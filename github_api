@@ -1,3 +1,10 @@
 Github APIs( or Github ReST APIs) are the APIs that you can use to interact with GitHub. 
 They allow you to create and manage repositories, branches, issues, pull requests, and many more. For fetching 
 publicly available information (like public repositories, user profiles, etc.), you can call the API.
+
+GitHub offers its basic services free of charge. Its more advanced professional and enterprise services are commercial.[5] 
+Free GitHub accounts are commonly used to host open-source projects.[6] As of January 2019, GitHub offers unlimited private
+repositories to all plans, including free accounts, but allowed only up to three collaborators per repository for free.[7] 
+Starting from April 15, 2020, the free plan allows unlimited collaborators, but restricts private repositories to 2,000 minutes
+of GitHub Actions[8] per month.[9] As of January 2020, GitHub reports having over 40 million users[10] and more than 190 million 
+repositories[11] (including at least 28 million public repositories),[12] making it the largest host of source code in the world.
