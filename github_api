@@ -1,3 +1,7 @@
 Github APIs( or Github ReST APIs) are the APIs that you can use to interact with GitHub. 
 They allow you to create and manage repositories, branches, issues, pull requests, and many more. For fetching 
 publicly available information (like public repositories, user profiles, etc.), you can call the API.
+
+In July 2020, GitHub stored a February archive of the site[47] in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault. The archive contained the code of all active public repositories, as well as that of dormant, but significant public repositories. The 21TB of data was stored on piqlFilm archival film reels as matrix (2D) barcode (Boxing barcode), and is expected to last 500–1,000 years.[92][93][94][95]
+
+The GitHub Archive Program is also working with partners on Project Silica, in an attempt to store all public repositories for 10,000 years. It aims to write archives into the molecular structure of quartz glass platters, using a high-precision laser that pulses a quadrillion (1,000,000,000,000,000) times per second.[95]
