@@ -1,3 +1,6 @@
 Github APIs( or Github ReST APIs) are the APIs that you can use to interact with GitHub. 
 They allow you to create and manage repositories, branches, issues, pull requests, and many more. For fetching 
 publicly available information (like public repositories, user profiles, etc.), you can call the API.
+
+GitHub Sponsors
+GitHub Sponsors allows users to make monthly money donations to projects hosted on GitHub.[89] The public beta was announced on May 23, 2019 and currently the project accepts wait list registrations. The Verge said that GitHub Sponsors "works exactly like Patreon" because "developers can offer various funding tiers that come with different perks, and they’ll receive recurring payments from supporters who want to access them and encourage their work" except with "zero fees to use the program". Furthermore, GitHub offer incentives for early adopters during the first year: it pledges to cover payment processing costs, and match sponsorship payments up to $5,000 per developer. Furthermore, users still can use other similar services like Patreon and Open Collective and link to their own websites.
