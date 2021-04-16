@@ -1,3 +1,6 @@
 Github APIs( or Github ReST APIs) are the APIs that you can use to interact with GitHub. 
 They allow you to create and manage repositories, branches, issues, pull requests, and many more. For fetching 
 publicly available information (like public repositories, user profiles, etc.), you can call the API.
+Development of the GitHub.com platform began on October 19, 2007.[60][61][62] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been made available for a few months prior as a beta release.[63]
+
+Projects on GitHub.com can be accessed and managed using the standard Git command-line interface; all standard Git commands work with it. GitHub.com also allows users to browse public repositories on the site. Multiple desktop clients and Git plugins are also available. The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.
